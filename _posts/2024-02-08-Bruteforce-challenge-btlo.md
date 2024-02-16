@@ -33,7 +33,6 @@ Uno de nuestros administradores del sistema identificó un gran número de event
 ## Presentación 
 
 Hay múltiples formas de abordar esto en este caso usaremos PowerShell y el visor de eventos de Windows.
-
 Tenemos 3 archivos. abrimos `BTLO_Bruteforce_Challenge.evtx` en el visor de eventos de Windows
 
 **_Pregunta 1) ¿Cuántos eventos de falla de auditoría hay?_** 
@@ -76,4 +75,4 @@ Hacemos una búsqueda whois para ver la info de la direccion IP
 
 **_Pregunta 7) ¿Cuál es el rango de puertos de origen que utilizó el atacante para realizar estas solicitudes de inicio de sesión?_**
 
-	R: 49162-65534
+R: 49162-65534
