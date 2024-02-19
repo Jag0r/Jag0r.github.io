@@ -1,7 +1,7 @@
 ---
 title: Network Analysis – Web Shell-Btlo
 date: 2023-12-06 14:10:00 +0800
-categories: [Blogging, Tutorial]
+categories: [Btlo, Challenge]
 tags: [writing] 
 render_with_liquid: false
 img_path: /Ghimg/btlo/challenge/Network%20Analysis%20%E2%80%93%20Web%20Shell/img/
