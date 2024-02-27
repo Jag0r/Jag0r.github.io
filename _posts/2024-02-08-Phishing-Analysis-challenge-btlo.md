@@ -2,7 +2,7 @@
 title: Phishing Analysis-btlo
 date: 2024-02-08 14:10:00 +0800
 categories: [Btlo, Challenge]
-tags: [writing]
+tags: [Security Operations]
 render_with_liquid: false
 img_path: /Ghimg/btlo/challenge/Phishing%20Analysis/img/
 ---
@@ -18,10 +18,6 @@ Un usuario ha recibido un correo electrónico de suplantación de identidad (phi
 
 - **WHOis**:es un protocolo TCP basado en petición/respuesta que se utiliza para efectuar consultas en una base de datos. Esta base de datos permite determinar el propietario de un nombre de dominio o una dirección IP.
 
-### Resolution summary
-- Abrimos el correo con **Mozilla Thunderbird**
-- Hacemos un **WHOis** para ver la informacion del dominio
-- Usamos **URL2PNG** para ver el contenido de la pagina
 
 
 ## Desafio

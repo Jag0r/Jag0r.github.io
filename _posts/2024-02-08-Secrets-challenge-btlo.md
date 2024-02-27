@@ -2,7 +2,7 @@
 title: Secrets-Btlo
 date: 2024-02-08 14:10:00 +0800
 categories: [Btlo, Challenge]
-tags: [writing]
+tags: [Incident Response]
 render_with_liquid: false
 img_path: Ghimg/btlo/challenge/Secrets/img
 ---
@@ -19,17 +19,13 @@ Aquí está el ticket:
 
 
 ### Used tools
-- Text
-- Text
+- El sitio web **jwt.io** es una herramienta en línea que permite decodificar, verificar y generar JSON Web Tokens (JWT).
 
-### Resolution summary
-- Text
-- Text
-
+## Desafio
 
 **_#1) ¿Puedes identificar el nombre del token?_**
 
-Primero decodificamos en base64
+Primero decodificamos en _base64_
 
 ![[Pasted image 20231207170226.png]](Pasted_image_20231207170226_guknsm)
 

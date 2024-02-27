@@ -2,7 +2,7 @@
 title: Malicious PowerShell Analysis-btlo
 date: 2024-01-21 14:10:00 +0800
 categories: [Btlo, Challenge]
-tags: [writing]
+tags: [Security Operations]
 render_with_liquid: false
 img_path: /Ghimg/btlo/challenge/Malicious%20PowerShell%20Analysis/img/
 ---
@@ -18,9 +18,6 @@ Material de lectura:
 - Editor de texto 
 - **CyberChef**:
 
-### Resolution summary
-- Text
-- Text
 
 ## Desafió
 

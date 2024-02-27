@@ -2,7 +2,7 @@
 title: ATT&CK-Btlo
 date: 2024-02-08 14:10:00 +0800
 categories: [Btlo, Challenge]
-tags: [writing]
+tags: [Incident Response]
 render_with_liquid: false
 ---
 
@@ -14,8 +14,7 @@ Te contratan como miembro del Blue Team de una empresa. Se le asigna la tarea de
 
 - **MITRE ATT&CK Framework**: (Adversarial Tactics, Techniques, and Common Knowledge) es una base de conocimientos que modela el comportamiento de los ciberdelincuentes basándose en observaciones del mundo real. Proporciona una taxonomía común de acciones adversas y se utiliza para mejorar la detección y prevención de los ataques cibernéticos.
 
-### Resolution summary
-- Usamos MITRE ATT&CK
+
 
 ## Presentación
 

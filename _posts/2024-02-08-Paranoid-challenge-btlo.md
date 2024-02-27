@@ -2,7 +2,7 @@
 title: Paranoid-Btlo
 date: 2024-02-08 14:10:00 +0800
 categories: [Btlo, Challenge]
-tags: [writing]
+tags: [Incident Response]
 render_with_liquid: false
 img_path: Ghimg/btlo/challenge/Paranoid/img
 ---
@@ -16,10 +16,7 @@ Yo no soy paranoico, tú sí.
 
 - **AUReport**: es una **herramienta de línea de comandos** utilizada para **crear informes resumidos** a partir de los archivos de registro almacenados en `/var/log/audit/`. también acepta datos de registro sin procesar desde la entrada estándar. 
 
-### Resolution summary
 
-- Usamos AUreport para examinar el archivo de registro
-- OSINT para investigar el exploit
 
 
 ## Desafío

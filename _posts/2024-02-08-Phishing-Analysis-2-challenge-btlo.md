@@ -2,7 +2,7 @@
 title: Phishing Analysis 2-btlo
 date: 2024-02-08 14:10:00 +0800
 categories: [Btlo, Challenge]
-tags: [writing]
+tags: [Security Operations]
 render_with_liquid: false
 img_path: /Ghimg/btlo/challenge/Phishing%20Analysis%202/img/
 ---
@@ -18,10 +18,6 @@ Pon a prueba tus habilidades de análisis de phishing clasificando y recopilando
 
 - **CyberChef**: es una herramienta web que permite analizar y decodificar datos.
 
-### Resolution summary
-- Analizamos el correo con **Thunderbird**
-- Usamos **URL2PNG** para inspeccionar la web
-- Usamos **CyberChef** para decodificar e inspeccionar la web
 
 ## Desafio
 

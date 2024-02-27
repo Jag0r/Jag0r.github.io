@@ -2,7 +2,7 @@
 title: Follina-Btlo
 date: 2024-02-08 14:10:00 +0800
 categories: [Btlo, Challenge]
-tags: [writing]
+tags: [Incident Response]
 render_with_liquid: false
 img_path: Ghimg/btlo/challenge/Follina/img
 ---
@@ -14,10 +14,6 @@ Un viernes por la noche, cuando estaba de humor para celebrar su fin de semana, 
 ### Used tools
 - VirusTotal 
 - OSINT
-
-### Resolution summary
-- Usamos OSINT para abordar este challenge 
-- Para saber mas sobre follina ir a: [Microsoft Office RCE - At  aque MSDT "Follina" (huntress.com)](https://www.huntress.com/blog/microsoft-office-remote-code-execution-follina-msdt-bug)
 
 
 ## Presentación

@@ -2,7 +2,7 @@
 title: Network Analysis Ransomware-Btlo
 date: 2024-02-08 14:10:00 +0800
 categories: [Btlo, Challenge]
-tags: [writing]
+tags: [Security Operations]
 render_with_liquid: false
 img_path: /Ghimg/btlo/challenge/Network%20Analysis%20-%20Ransomware/img/
 ---
@@ -14,9 +14,7 @@ ABC Industries trabajó día y noche durante un mes para preparar un documento d
 ### Used tools
 - **Wireshark:** Es una **herramienta de análisis de red** que te permite **capturar y examinar paquetes de datos** intercambiados a través de **protocolos web**. Su función principal es **investigar y resolver problemas** en las comunicaciones de red.
 
-### Resolution summary
-- Text
-- Text
+
 
 
 ## Desafio

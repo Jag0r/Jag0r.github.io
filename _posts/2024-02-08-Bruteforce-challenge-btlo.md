@@ -2,7 +2,7 @@
 title: Bruteforce-Btlo
 date: 2024-02-08 14:10:00 +0800
 categories: [Btlo, Challenge]
-tags: [writing]
+tags: [Incident Response]
 render_with_liquid: false
 img_path: /Ghimg/btlo/challenge/Bruteforce/img/
 ---

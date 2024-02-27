@@ -2,7 +2,7 @@
 title: Log Analysis – Compromised WordPress-btlo
 date: 2024-02-08 14:10:00 +0800
 categories: [Btlo, Challenge]
-tags: [writing]
+tags: [Incident Response]
 render_with_liquid: false
 img_path: Ghimg/btlo/Log%20Analysis%20Compromised%20WordPress/
 ---
@@ -17,9 +17,7 @@ Uno de nuestros sitios de WordPress se ha visto comprometido, pero actualmente n
 - **Sort**: _Ordena las líneas de un archivo de texto. Puedes especificar diferentes opciones para ordenar alfabéticamente, numéricamente o basado en campos específicos_ 
 - **Uniq**: _Se utiliza para mostrar líneas únicas en un archivo. Puede ser útil para eliminar duplicados o encontrar líneas repetidas._ 
 
-### Resolution summary
-- Analizamos el archivo de registro 
-- Hacemos un poco de investigacion para determinar que vulneravilidad se exploto
+
 
 ## Desafio
 
